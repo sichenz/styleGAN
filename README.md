@@ -1,5 +1,7 @@
 # styleGAN
 
+MUST USE PYTHON VERSION 3.9
+
 ### 1. **Using Pre-Trained Models**
 
 #### a. **Generate Images**
