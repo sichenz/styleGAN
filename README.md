@@ -34,6 +34,7 @@ Use `dataset_tool.py` to prepare datasets in ZIP format:
 ```bash
 python dataset_tool.py --source=/path/to/images --dest=~/datasets/mydataset-1024x1024.zip
 ```
+NOTE: image dimensions MUST BE SQUARE
 
 #### b. **Train a Model**
 Start training with your dataset:
